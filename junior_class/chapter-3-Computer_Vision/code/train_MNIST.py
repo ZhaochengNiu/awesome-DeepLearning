@@ -27,7 +27,7 @@ from nets.LeNet import LeNet
 # 定义训练过程
 def train(model):
     # 开启0号GPU训练
-    use_gpu = True
+    use_gpu = False
     paddle.set_device('gpu:0') if use_gpu else paddle.set_device('cpu')
     print('start training ... ')
     model.train()

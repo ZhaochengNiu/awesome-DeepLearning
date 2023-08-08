@@ -12,9 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from AlexNet import AlexNet
-from GoogLeNet import GoogLeNet
-from vgg import VGG
-from ResNet import ResNet
-from LeNet import LeNet
-from LeNet_PALM import LeNet_PALM
+# from AlexNet import AlexNet
+# from GoogLeNet import GoogLeNet
+# from vgg import VGG
+# from ResNet import ResNet
+# from LeNet import LeNet
+# from LeNet_PALM import LeNet_PALM
